@@ -4,7 +4,7 @@
   - Amitesh Singh
   - Rajat Kumar Singh
   - Saurabh 
-  - Shwetank
+  - Shwetank Shekhar
   - Mihir
   - Aadarsh
   - Dhruvi
