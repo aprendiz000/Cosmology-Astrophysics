@@ -1,14 +1,17 @@
-Interest:
+# Interest: 
+
 Gravitational Waves
+
 Cosmology
 
-Books:
-feynman Lectures Vol-I- Current
-Calculus made Easy- Finished
-Hess Tensor-Current
-Classical Mechanics-Currrent
+# Books:
 
-Completed Tutorial/Courses
+ - feynman Lectures Vol-I- Current
+ - Calculus made Easy- Finished
+ - Hess Tensor-Current
+ - Classical Mechanics-Currrent
+
+# Completed Tutorial/Courses
 1. Theory of Special Relativity
 2. Quantum Mechanics
 3. 
