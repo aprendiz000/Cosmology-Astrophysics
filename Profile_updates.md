@@ -17,11 +17,11 @@ Cosmology
 3. 
 
 
-Current Project:
+# Current Project:
 1. Curvature Evolution due to steller formation.
 2.
 
-Current Tutorial:
+# Current Tutorial:
 1. Workshop GW- 2019- ongoing
 2. Astroid Search- waiting for acceptance
 
